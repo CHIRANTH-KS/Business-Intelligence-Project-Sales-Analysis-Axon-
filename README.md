@@ -1,2 +1,1 @@
-# Classismodels_Data_Visualization_Capstone_Project
- Capstone project on DV-Classicmodels_Analysis
+# Data visualization project using Power BI for the sales analysis of Axon.
